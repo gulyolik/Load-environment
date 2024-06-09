@@ -1,0 +1,5 @@
+![graphana1](https://github.com/gulyolik/Load-environment/assets/107426326/48584f13-5d90-48bf-822b-2a2d79f6eee7)
+![graphana2](https://github.com/gulyolik/Load-environment/assets/107426326/e6045f2f-a689-4be2-a204-3da13e91df40)
+![Консоль prometheus](https://github.com/gulyolik/Load-environment/assets/107426326/f47106f7-7f61-4cfd-b27e-f644ddde8064)
+![prometheusDocker](https://github.com/gulyolik/Load-environment/assets/107426326/6a28fe16-33a0-4d3a-9ef6-706698ba92ff)
+![prometheus](https://github.com/gulyolik/Load-environment/assets/107426326/424bcb6d-8f73-4f43-8c68-22bcac12e434)
